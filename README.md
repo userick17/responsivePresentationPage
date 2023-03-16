@@ -8,4 +8,4 @@
 
 ###  <= 700px
 
-![Captura de tela_2023-03-16_15-52-55](https://user-images.githubusercontent.com/117551076/225725485-d5bb6efd-304c-4606-a2f4-00e9c361ee89.png)
+![image](https://user-images.githubusercontent.com/117551076/225726257-66f7e88a-f373-482c-ae5a-c25bb54668a8.png)
