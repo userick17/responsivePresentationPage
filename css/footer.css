@@ -1,0 +1,12 @@
+footer {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 10px;
+
+	background-color: rgba(0, 0, 0, 0.35);
+}
+
+span {
+	margin: 10px auto 10px auto;
+}
